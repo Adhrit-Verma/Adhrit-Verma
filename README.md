@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on A.D.A (Autonomus Digital Ally)<br><br>🌱 I’m currently learning Neural Networks ,Data Mining and Tensor-flow<br><br>👨‍💻 All of my projects are available at https://github.com/Adhrit-Verma<br><br>💬 Ask me about Python, Elastic Search, MySQl, Csharp with VB.net, HTML, CSS, C/C++, JavaScript, YAML<br><br>📫 How to reach me works.omen@gmail.com<br><br>⚡ Fun fact I started learning A.I. tech from class 11th in 2018
+🔭 I’m currently working on MultiversX Dapps <br><br>🌱 I’m currently learning Neural Networks ,Data Mining and Tensor-flow<br><br>👨‍💻 All of my projects are available at https://github.com/Adhrit-Verma<br><br>💬 Ask me about Python, Elastic Search, MySQl, Csharp with VB.net, HTML, CSS, C/C++, JavaScript, YAML<br><br>📫 How to reach me works.omen@gmail.com<br><br>⚡ Fun fact I started learning A.I. tech from class 11th in 2018
 
 
 ## 🌐 Socials:
