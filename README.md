@@ -1,90 +1,43 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg"><img src="./assets/hero-light.svg" width="100%" alt="Adhrit Verma, software engineer. Backend systems, applied AI, and the occasional strange experiment. Based in Bengaluru."></picture>
 
-<img src="./assets/hero.svg" width="100%" alt="Adhrit Verma — Software Engineer, Backend + GenAI, Bengaluru. I build backend systems, AI agents with guardrails, automation, and weird experiments."/>
+I'm a backend-first engineer who turns messy, manual workflows into software people rely on: crew-scheduling maths for an airline operations platform, a complete HR suite with role-based access and audit trails, and multi-agent pipelines that audit websites and review contracts. I've been building with AI since 2018 and do most of my work where **APIs, databases and language models meet**.
 
-<br/>
+**Now:** turning Contrast into a product · building Jimmy, a modular personal AI assistant · going deeper on neural networks and system design.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Adhrit--Verma-181717?style=for-the-badge&logo=github)](https://github.com/Adhrit-Verma)
-[![Email](https://img.shields.io/badge/Email-works.omen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:works.omen@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-kafydier-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kafydier/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-kafydier-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/kafydier)
+[GitHub](https://github.com/Adhrit-Verma) &nbsp;·&nbsp; [Email](mailto:works.omen@gmail.com) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/kafydier/) &nbsp;·&nbsp; [Buy me a coffee](https://www.buymeacoffee.com/kafydier)
 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-production-dark.svg"><img src="./assets/section-production-light.svg" width="100%" alt="01. In production"></picture>
 
-<img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami — Adhrit Verma, software engineer, backend + GenAI, Bengaluru. Focus: backend systems, RAG pipelines, multi-agent workflows, automation."/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-aviatrack-dark.svg"><img src="./assets/project-aviatrack-light.svg" width="100%" alt="AviaTrack: airline crew and operations platform (private, in production)"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-hrm-dark.svg"><img src="./assets/project-hrm-light.svg" width="100%" alt="HRM Platform: end-to-end HR suite with RBAC and audit logs (private, in production)"></picture>
 
-I'm a backend-first engineer who turns **messy, manual workflows into software people actually use**: crew-scheduling maths for an airline ops platform, a full HR suite with RBAC and audit trails, and multi-agent AI pipelines that audit websites and review contracts. I've been messing with AI since class 11 (2018), and these days I spend most of my time where **APIs, databases and LLMs meet**.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-open-dark.svg"><img src="./assets/section-open-light.svg" width="100%" alt="02. Open source and experiments"></picture>
 
-<img src="./assets/pipeline.svg" width="100%" alt="How I build: a real workflow goes into an API layer (Express, FastAPI, auth), then data (PostgreSQL, Redis), then an AI layer (RAG, LangGraph, agents), then ships as dashboards and CI/CD, with a feedback loop."/>
+<a href="https://github.com/Adhrit-Verma/Contrast"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-contrast-dark.svg"><img src="./assets/project-contrast-light.svg" width="100%" alt="Contrast: AI-assisted accessibility auditor"></picture></a>
+<a href="https://github.com/Adhrit-Verma/ClauseGuard"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-clauseguard-dark.svg"><img src="./assets/project-clauseguard-light.svg" width="100%" alt="ClauseGuard: multi-agent contract review"></picture></a>
+<a href="https://github.com/Adhrit-Verma/TableFox"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-tablefox-dark.svg"><img src="./assets/project-tablefox-light.svg" width="100%" alt="TableFox: PostgreSQL schema intelligence for AI agents"></picture></a>
+<a href="https://github.com/Adhrit-Verma/two-agent-self-extending-ai-system"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-self-extending-ai-dark.svg"><img src="./assets/project-self-extending-ai-light.svg" width="100%" alt="Self-Extending AI: two-agent system that writes its own sandboxed skills"></picture></a>
+<a href="https://github.com/Adhrit-Verma/GDC"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-gdc-dark.svg"><img src="./assets/project-gdc-light.svg" width="100%" alt="Gradient Dense Code: QR carrier with an extra RGB payload"></picture></a>
+<a href="https://github.com/Adhrit-Verma/AuDix_User"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-audix-dark.svg"><img src="./assets/project-audix-light.svg" width="100%" alt="AuDix: local-intranet real-time audio broadcasting"></picture></a>
 
-## ⚡ Featured builds
+<sub>Also on my profile: <a href="https://github.com/Adhrit-Verma/LocalDocQA">LocalDocQA</a> · <a href="https://github.com/Adhrit-Verma/pc_emo-v1">PC Emo</a> · <a href="https://github.com/Adhrit-Verma/Stock-Price-Checker">Stock Price Checker</a> · <a href="https://github.com/Adhrit-Verma/3D-Cube-Project">3D Cube</a></sub>
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/Contrast"><img src="./assets/card-contrast.svg" width="100%" alt="Contrast — AI-assisted accessibility auditor with a 7-phase LangGraph pipeline"/></a></td>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/ClauseGuard"><img src="./assets/card-clauseguard.svg" width="100%" alt="ClauseGuard — multi-agent contract risk review"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/TableFox"><img src="./assets/card-tablefox.svg" width="100%" alt="TableFox — PostgreSQL schema intelligence for AI agents over MCP"/></a></td>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/two-agent-self-extending-ai-system"><img src="./assets/card-self-extending-ai.svg" width="100%" alt="Self-Extending AI — a UserAgent and a BuilderAgent that writes sandbox-validated skills"/></a></td>
-</tr>
-<tr>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/GDC"><img src="./assets/card-gdc.svg" width="100%" alt="GDC — Gradient Dense Code, a QR carrier with an extra RGB payload"/></a></td>
-<td width="50%"><a href="https://github.com/Adhrit-Verma/AuDix_User"><img src="./assets/card-audix.svg" width="100%" alt="AuDix — local-intranet real-time audio broadcasting"/></a></td>
-</tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-method-dark.svg"><img src="./assets/section-method-light.svg" width="100%" alt="03. How I work"></picture>
 
-### 🏭 In production (closed-source)
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/method-dark.svg"><img src="./assets/method-light.svg" width="100%" alt="How I work: observe the manual workflow, model the schema and permissions, build APIs in Node.js or Python, augment with RAG and agents only where they earn it, then ship with CI/CD and iterate."></picture>
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/card-aviatrack.svg" width="100%" alt="AviaTrack — airline crew and operations platform, private production system"/></td>
-<td width="50%"><img src="./assets/card-hrm-platform.svg" width="100%" alt="HRM Platform — end-to-end HR suite with RBAC and audit logs, private production system"/></td>
-</tr>
-</table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-toolkit-dark.svg"><img src="./assets/section-toolkit-light.svg" width="100%" alt="04. Toolkit"></picture>
 
-<sub>More on my profile: <a href="https://github.com/Adhrit-Verma/LocalDocQA">LocalDocQA</a> · <a href="https://github.com/Adhrit-Verma/pc_emo-v1">PC Emo</a> · <a href="https://github.com/Adhrit-Verma/Stock-Price-Checker">Stock Price Checker</a> · <a href="https://github.com/Adhrit-Verma/3D-Cube-Project">3D Cube</a></sub>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/toolkit-dark.svg"><img src="./assets/toolkit-light.svg" width="100%" alt="Toolkit. Backend: Node.js, Express, Python, FastAPI, Flask. Applied AI: LangChain and LangGraph, Model Context Protocol, Ollama, Anthropic API, Gemini API. Data: PostgreSQL, Redis, MongoDB, SQLite, pandas and NumPy. Delivery: Docker, GitLab CI/CD, Linux and VPS, Puppeteer, React."></picture>
 
-## 🌳 Skill tree
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/section-activity-dark.svg"><img src="./assets/section-activity-light.svg" width="100%" alt="05. Activity"></picture>
 
-<img src="./assets/skill-tree.svg" width="100%" alt="Skill tree. Backend: Node.js/Express, REST APIs and auth, Python, RBAC and audit logging, system design. AI and agents: LLM integration, RAG, LangGraph multi-agent, structured outputs, neural nets (learning). Data: PostgreSQL, query optimisation, SQLite/MongoDB, Pandas/NumPy, Redis. Ship and ops: Linux/VPS, GitLab CI/CD, Puppeteer, Docker, React and Figma."/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg"><img src="./assets/activity-light.svg" width="100%" alt="Contribution activity over the last 12 months as ridgelines, one per month, with the busiest month highlighted."></picture>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,postgres,redis,mongodb,sqlite,docker,linux,aws,gitlab,react,js,ts&perline=16" alt="Tech icons"/>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/colophon-dark.svg"><img src="./assets/colophon-light.svg" width="100%" alt="I don't just collect tech stacks — I build things until they work."></picture>
 
-## 🎮 Quest log
+<details><summary><sub>How this page is made</sub></summary>
 
-<img src="./assets/quest-log.svg" width="100%" alt="Quest log: build stronger backend systems, improve AI agent workflows, ship more public projects, get better at DSA, turn side projects into career leverage, stop overthinking and push more code."/>
-
-## 📊 Live stats
-
-<img src="./assets/stats.svg" width="100%" alt="Live GitHub stats generated daily by a GitHub Action"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Adhrit-Verma/Adhrit-Verma/output/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=Adhrit-Verma&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=A371F7&currStreakLabel=00E7FF" alt="GitHub streak"/>
-</div>
-
-<details>
-<summary><b>🛠️ How this README is built (it's a project too)</b></summary>
-<br/>
-
-GitHub strips JavaScript from READMEs, so every animation here is an **SVG generated by JavaScript**:
-
-- [`scripts/generate.mjs`](./scripts/generate.mjs) is a zero-dependency Node script that renders the hero, terminal, pipeline, project cards, skill tree, quest log and stats as animated SVGs (CSS keyframes and SMIL).
-- A [GitHub Action](./.github/workflows/profile.yml) runs it every 12 hours, pulls live repo and language data from the GitHub API, commits fresh SVGs and redraws the contribution snake.
-- Every SVG has a `<title>` for screen readers and respects `prefers-reduced-motion`, because I build accessibility tooling and it would be embarrassing otherwise.
+<sub>Every image above is an animated SVG rendered by <a href="./scripts/generate.mjs"><code>scripts/generate.mjs</code></a> in both GitHub themes, using GitHub’s own open-source design stack: colour tokens from <a href="https://github.com/primer/primitives">primer/primitives</a>, icons from <a href="https://github.com/primer/octicons">primer/octicons</a> and <a href="https://github.com/simple-icons/simple-icons">simple-icons</a>, and the typefaces <a href="https://github.com/github/mona-sans">Mona Sans</a>, <a href="https://github.com/github/hubot-sans">Hubot Sans</a> and <a href="https://github.com/githubnext/monaspace">Monaspace</a> (SIL OFL), subset and embedded per image. The topographic header is generated from seeded Perlin noise; the activity ridgelines are drawn from real contribution data by a <a href="./.github/workflows/profile.yml">GitHub Action</a> twice a day. All motion respects <code>prefers-reduced-motion</code>.</sub>
 
 </details>
-
-<div align="center">
-
-<br/>
-
-**“I don’t just collect tech stacks — I build things until they work.”**
-
-<img src="https://komarev.com/ghpvc/?username=Adhrit-Verma&label=Profile%20Views&color=00E7FF&style=flat-square" alt="Profile views"/>
-
-</div>
