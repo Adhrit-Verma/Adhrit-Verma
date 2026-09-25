@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-labelledby="title">
+<title id="title">GitHub stats: 22 public repos, 2 languages, 8 years into AI</title>
+<style>
+text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
+@keyframes fadeIn{to{opacity:1}}
+@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes pulse{0%{transform:scale(1);opacity:.7}100%{transform:scale(2.4);opacity:0}}
+@keyframes flow{to{stroke-dashoffset:-24}}
+@keyframes orbit{to{stroke-dashoffset:-100}}
+.fx{transform-box:fill-box;transform-origin:center}
+.gx{transform-box:fill-box;transform-origin:left center}
+.rise{opacity:0;animation:rise .7s ease forwards}@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+.bar{animation:grow 1.6s cubic-bezier(.2,.8,.2,1) .3s both}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.rise{opacity:1}}
+</style>
+
+<defs><linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00E7FF"/><stop offset=".5" stop-color="#A371F7"/><stop offset="1" stop-color="#00E7FF"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="218" rx="16" fill="#0D1117" stroke="#30363D"/>
+<rect x="1" y="1" width="998" height="218" rx="16" fill="none" stroke="url(#edge)" stroke-width="2" pathLength="100" stroke-dasharray="14 86" style="animation:orbit 8s linear infinite"/>
+<defs><clipPath id="barClip"><rect x="580" y="84" width="390" height="12" rx="6"/></clipPath></defs>
+<text class="m" x="30" y="38" font-size="12" letter-spacing="3" fill="#00E7FF">LIVE STATS</text>
+<text class="m" x="580" y="66" font-size="11" letter-spacing="2" fill="#8B949E">TOP LANGUAGES · BY REPO</text>
+<g class="rise" style="animation-delay:0.15s">
+<text x="30" y="122" font-size="40" font-weight="800" fill="#00E7FF">22</text>
+<text class="m" x="30" y="148" font-size="11" fill="#8B949E">public repos</text></g><g class="rise" style="animation-delay:0.3s">
+<text x="160" y="122" font-size="40" font-weight="800" fill="#00E7FF">2</text>
+<text class="m" x="160" y="148" font-size="11" fill="#8B949E">languages</text></g><g class="rise" style="animation-delay:0.44999999999999996s">
+<text x="290" y="122" font-size="40" font-weight="800" fill="#00E7FF">8</text>
+<text class="m" x="290" y="148" font-size="11" fill="#8B949E">years into AI</text></g>
+<g clip-path="url(#barClip)"><g class="gx bar"><rect x="580" y="84" width="258" height="12" fill="#3572A5"/><rect x="840" y="84" width="128" height="12" fill="#F1E05A"/></g></g>
+<circle cx="585" cy="124" r="5" fill="#3572A5"/>
+<text x="596" y="128" font-size="13" fill="#C9D1D9">Python <tspan class="m" font-size="11" fill="#8B949E">67%</tspan></text><circle cx="780" cy="124" r="5" fill="#F1E05A"/>
+<text x="791" y="128" font-size="13" fill="#C9D1D9">JavaScript <tspan class="m" font-size="11" fill="#8B949E">33%</tspan></text>
+<text class="m" x="976" y="202" font-size="10" text-anchor="end" fill="#8B949E">fallback data by scripts/generate.mjs · 2026-09-25</text>
+</svg>

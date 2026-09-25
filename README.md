@@ -1,260 +1,90 @@
 <div align="center">
 
-# Hey, I'm Adhrit Verma 👋
-
-### Software Engineer • Backend Builder • AI/ML Enthusiast • Experimental Product Maker
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding GIF"/>
-
-I build practical software that solves real workflow problems — from backend-heavy business systems and automation tools to AI-assisted products, local-first assistants, accessibility analyzers, and experimental visual data formats.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Adhrit--Verma-181717?style=for-the-badge\&logo=github)](https://github.com/Adhrit-Verma)
-[![Instagram](https://img.shields.io/badge/Instagram-kafydier-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kafydier/)
-[![Email](https://img.shields.io/badge/Email-works.omen%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:works.omen@gmail.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-kafydier-FFDD00?style=for-the-badge\&logo=buymeacoffee\&logoColor=black)](https://www.buymeacoffee.com/kafydier)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```js
-const adhrit = {
-  role: "Software Engineer",
-  focus: ["Backend Engineering", "AI Integrations", "Automation", "Data-heavy Systems"],
-  strongestStack: ["Node.js", "Express.js", "PostgreSQL", "Python", "JavaScript"],
-  learning: ["Neural Networks", "Data Mining", "TensorFlow", "AI Agents", "System Design"],
-  builderType: "I turn rough ideas into working products fast.",
-  funFact: "I started learning AI tech in class 11th, back in 2018."
-};
-```
-
-* 🔭 Currently building backend-first products, AI-powered utilities, and experimental tools
-* 🧩 I like systems that combine **APIs + databases + automation + real-world workflows**
-* 🤖 I use AI tools like Codex, Claude Code, Ollama, and local LLM workflows to ship faster
-* 🛠️ Strongest in **Node.js, Express.js, PostgreSQL, Python, REST APIs, dashboards, auth, automation**
-* 🎯 Goal: build software that is useful, impressive, and actually solves someone’s problem
-
----
-
-## 🚀 What I Build
-
-<img align="right" src="https://media.giphy.com/media/cFlrCthixcb3B6hqwY/giphy.gif" width="250" alt="Anime computer GIF"/>
-
-I enjoy building projects that have a real use case, not just tutorial apps.
-
-### 🏢 Business & Operations Systems
-
-* HRM platforms with HR/employee portals, attendance, leave, documents, salary modules, onboarding, training, and secure auth
-* Aviation/crew planning tools with scheduling, duty calculations, feasibility checks, reports, and operational dashboards
-* Device tracking and workflow automation systems for internal company operations
-
-### 🤖 AI & Automation
-
-* Local document Q&A systems
-* AI-assisted accessibility analyzers
-* AI memory and assistant experiments
-* RAG-style workflows, embeddings, structured LLM outputs, and local model integrations
-
-### 🧪 Experimental Products
-
-* High-density QR-like visual data formats
-* Audio broadcasting tools
-* Personal streaming/cache experiments
-* Desktop widgets and utility tools
-
-<br clear="right"/>
-
----
-
-## 🏆 Featured Projects
-
-| Project                                                                        | What it does                                                                                                       | Stack / Focus                               |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------- |
-| [**Gradient Dense Code — GDC**](https://github.com/Adhrit-Verma/GDC)           | Experimental visual data format that keeps a QR carrier while encoding extra payload through calibrated RGB values | Python, QR, image processing, data encoding |
-| [**LocalDocQA**](https://github.com/Adhrit-Verma/LocalDocQA)                   | Offline document Q&A system for PDFs/TXT using locally cached transformer models                                   | Python, NLP, local AI                       |
-| [**AuDix User**](https://github.com/Adhrit-Verma/AuDix_User)                   | Local audio broadcast / communication style tool                                                                   | JavaScript, WebSocket-style flow            |
-| [**PC Emo v1**](https://github.com/Adhrit-Verma/pc_emo-v1)                     | Python-based system widget for Windows                                                                             | Python, desktop utility                     |
-| [**Stock Price Checker**](https://github.com/Adhrit-Verma/Stock-Price-Checker) | Utility app for checking stock prices                                                                              | JavaScript, API usage                       |
-| [**3D Cube Project**](https://github.com/Adhrit-Verma/3D-Cube-Project)         | Web experiment to learn 3D objects on websites                                                                     | JavaScript, web graphics                    |
-
----
-
-## 🧰 Tech Stack
-
-### 💪 Core Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-### ⚙️ Backend & APIs
-
-![Express.js](https://img.shields.io/badge/Express.js-111111?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)
-![Sessions](https://img.shields.io/badge/Sessions%20%26%20Auth-4B5563?style=for-the-badge)
-![Nodemailer](https://img.shields.io/badge/Email%20Automation-0F172A?style=for-the-badge\&logo=gmail\&logoColor=white)
-
-### 🗄️ Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge\&logo=sqlite\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
-
-### 🤖 AI / ML / Data
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs%20%26%20Agents-7C3AED?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG%20Workflows-2563EB?style=for-the-badge)
-
-### 🎨 Frontend & UI
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
-![Vanilla JS](https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### 🛠️ Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge\&logo=puppeteer\&logoColor=white)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge\&logo=lighthouse\&logoColor=white)
-
-### 🎬 Creative Tools
-
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge\&logo=adobephotoshop\&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge\&logo=adobeillustrator\&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge\&logo=adobeaftereffects\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
-
----
-
-## 🧩 Engineering Style
-
-<img align="right" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="230" alt="Coding animation"/>
-
-```txt
-I like building things that:
-✅ solve actual workflow problems
-✅ have database-backed logic
-✅ include authentication and permissions
-✅ automate boring manual work
-✅ look clean enough for real users
-✅ can be explained clearly in interviews
-✅ are improved with AI, not blindly generated by AI
-```
-
-<br clear="right"/>
-
----
-
-## 🎮 Side Quest Energy
-
-I’m not just trying to “learn tech stack”.
-I like building things that feel like unlocking a new skill tree.
-
-<img src="https://media.giphy.com/media/pqMSyHmekA1Qe7Utp7/giphy.gif" width="360" alt="Game developer GIF"/>
-
-```txt
-Current quests:
-🟢 Build stronger backend systems
-🟢 Improve AI agent workflows
-🟢 Ship more public projects
-🟡 Get better at DSA without losing my mind
-🟡 Turn side projects into career leverage
-🔴 Stop overthinking and push more code
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adhrit-Verma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adhrit-Verma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&text_color=FFFFFF" alt="Top Languages"/>
+<img src="./assets/hero.svg" width="100%" alt="Adhrit Verma — Software Engineer, Backend + GenAI, Bengaluru. I build backend systems, AI agents with guardrails, automation, and weird experiments."/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhrit-Verma&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+[![GitHub](https://img.shields.io/badge/GitHub-Adhrit--Verma-181717?style=for-the-badge&logo=github)](https://github.com/Adhrit-Verma)
+[![Email](https://img.shields.io/badge/Email-works.omen%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:works.omen@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-kafydier-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kafydier/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-kafydier-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/kafydier)
 
 </div>
 
----
+<img src="./assets/terminal.svg" width="100%" alt="Terminal: whoami — Adhrit Verma, software engineer, backend + GenAI, Bengaluru. Focus: backend systems, RAG pipelines, multi-agent workflows, automation."/>
 
-## 🏆 GitHub Trophies
+I'm a backend-first engineer who turns **messy, manual workflows into software people actually use**: crew-scheduling maths for an airline ops platform, a full HR suite with RBAC and audit trails, and multi-agent AI pipelines that audit websites and review contracts. I've been messing with AI since class 11 (2018), and these days I spend most of my time where **APIs, databases and LLMs meet**.
+
+<img src="./assets/pipeline.svg" width="100%" alt="How I build: a real workflow goes into an API layer (Express, FastAPI, auth), then data (PostgreSQL, Redis), then an AI layer (RAG, LangGraph, agents), then ships as dashboards and CI/CD, with a feedback loop."/>
+
+## ⚡ Featured builds
+
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/Contrast"><img src="./assets/card-contrast.svg" width="100%" alt="Contrast — AI-assisted accessibility auditor with a 7-phase LangGraph pipeline"/></a></td>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/ClauseGuard"><img src="./assets/card-clauseguard.svg" width="100%" alt="ClauseGuard — multi-agent contract risk review"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/TableFox"><img src="./assets/card-tablefox.svg" width="100%" alt="TableFox — PostgreSQL schema intelligence for AI agents over MCP"/></a></td>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/two-agent-self-extending-ai-system"><img src="./assets/card-self-extending-ai.svg" width="100%" alt="Self-Extending AI — a UserAgent and a BuilderAgent that writes sandbox-validated skills"/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/GDC"><img src="./assets/card-gdc.svg" width="100%" alt="GDC — Gradient Dense Code, a QR carrier with an extra RGB payload"/></a></td>
+<td width="50%"><a href="https://github.com/Adhrit-Verma/AuDix_User"><img src="./assets/card-audix.svg" width="100%" alt="AuDix — local-intranet real-time audio broadcasting"/></a></td>
+</tr>
+</table>
+
+### 🏭 In production (closed-source)
+
+<table>
+<tr>
+<td width="50%"><img src="./assets/card-aviatrack.svg" width="100%" alt="AviaTrack — airline crew and operations platform, private production system"/></td>
+<td width="50%"><img src="./assets/card-hrm-platform.svg" width="100%" alt="HRM Platform — end-to-end HR suite with RBAC and audit logs, private production system"/></td>
+</tr>
+</table>
+
+<sub>More on my profile: <a href="https://github.com/Adhrit-Verma/LocalDocQA">LocalDocQA</a> · <a href="https://github.com/Adhrit-Verma/pc_emo-v1">PC Emo</a> · <a href="https://github.com/Adhrit-Verma/Stock-Price-Checker">Stock Price Checker</a> · <a href="https://github.com/Adhrit-Verma/3D-Cube-Project">3D Cube</a></sub>
+
+## 🌳 Skill tree
+
+<img src="./assets/skill-tree.svg" width="100%" alt="Skill tree. Backend: Node.js/Express, REST APIs and auth, Python, RBAC and audit logging, system design. AI and agents: LLM integration, RAG, LangGraph multi-agent, structured outputs, neural nets (learning). Data: PostgreSQL, query optimisation, SQLite/MongoDB, Pandas/NumPy, Redis. Ship and ops: Linux/VPS, GitLab CI/CD, Puppeteer, Docker, React and Figma."/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi,postgres,redis,mongodb,sqlite,docker,linux,aws,gitlab,react,js,ts&perline=16" alt="Tech icons"/>
+</p>
+
+## 🎮 Quest log
+
+<img src="./assets/quest-log.svg" width="100%" alt="Quest log: build stronger backend systems, improve AI agent workflows, ship more public projects, get better at DSA, turn side projects into career leverage, stop overthinking and push more code."/>
+
+## 📊 Live stats
+
+<img src="./assets/stats.svg" width="100%" alt="Live GitHub stats generated daily by a GitHub Action"/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Adhrit-Verma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
-
+  <img src="https://raw.githubusercontent.com/Adhrit-Verma/Adhrit-Verma/output/snake.svg" width="100%" alt="Snake eating my contribution graph"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Adhrit-Verma&theme=tokyonight&hide_border=true&background=0D1117&ring=00E7FF&fire=A371F7&currStreakLabel=00E7FF" alt="GitHub streak"/>
 </div>
 
----
+<details>
+<summary><b>🛠️ How this README is built (it's a project too)</b></summary>
+<br/>
 
-## 📈 Contribution Graph
+GitHub strips JavaScript from READMEs, so every animation here is an **SVG generated by JavaScript**:
 
-<div align="center">
+- [`scripts/generate.mjs`](./scripts/generate.mjs) is a zero-dependency Node script that renders the hero, terminal, pipeline, project cards, skill tree, quest log and stats as animated SVGs (CSS keyframes and SMIL).
+- A [GitHub Action](./.github/workflows/profile.yml) runs it every 12 hours, pulls live repo and language data from the GitHub API, commits fresh SVGs and redraws the contribution snake.
+- Every SVG has a `<title>` for screen readers and respects `prefers-reduced-motion`, because I build accessibility tooling and it would be embarrassing otherwise.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adhrit-Verma&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
+</details>
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=Adhrit-Verma&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+<br/>
 
-</div>
+**“I don’t just collect tech stacks — I build things until they work.”**
 
----
-
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://rm.up.railway.app/" width="520px" alt="Random Dev Meme"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Adhrit--Verma-181717?style=for-the-badge\&logo=github)](https://github.com/Adhrit-Verma)
-[![Instagram](https://img.shields.io/badge/Instagram-kafydier-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/kafydier/)
-[![Email](https://img.shields.io/badge/Email-works.omen%40gmail.com-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:works.omen@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### “I don’t just collect tech stacks — I build things until they work.”
-
-<img src="https://komarev.com/ghpvc/?username=Adhrit-Verma&label=Profile%20Views&color=00E7FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Adhrit-Verma&label=Profile%20Views&color=00E7FF&style=flat-square" alt="Profile views"/>
 
 </div>
